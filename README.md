@@ -1,5 +1,4 @@
-## Hi there 👋
-
+My name is Andrew. Arch linux enjoyer and C lover. Senior Goblin Developer in the future.
 <!--
 **1nvolve/1nvolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
